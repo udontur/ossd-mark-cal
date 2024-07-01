@@ -40,6 +40,8 @@ Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calcul
     - MacOS: Click "Open".
 6. A terminal will pop up, ossd-mark-calculator is good to go!
 
+<a href="ossd-markcal.exe" download="filename.extension">Download File</a>
+
 ### Method 2: Online compiler
 1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/).
 2. Click the language drop-down in the top left of the website.
