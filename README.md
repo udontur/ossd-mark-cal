@@ -49,7 +49,7 @@ Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calcul
 
 ## Usage
 Press enter after you finish typing
-1. "Enter the number of items" 
+1. Enter the number of items
     - Type how many marks you want to enter
 2. "Enter the marks" (Limit: 4 decimal points)
     - Type your marks excluding the denominator, separated by a space
