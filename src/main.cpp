@@ -1,5 +1,5 @@
 /*
-Program name: Ontario Secondary School Diploma Mark Calculator
+Program name: ossd-mark-calculator
 Program: ossd-markcal.exe
 GitHub link: github.com/udontur/ossd-mark-calculator
 Date: July 2024
