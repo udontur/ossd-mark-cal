@@ -13,7 +13,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
 Have you ever received your score and wondered what the final mark is, but it is not uploaded to your student information system? Or does Google Classroom not display your final mark? ossd-mark-calculator calculates your mark with speed and accuracy. 
 
