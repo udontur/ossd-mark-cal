@@ -13,7 +13,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-### About The Project
+## About The Project
 
 Have you ever received your score and wondered what the final mark is, but it is not uploaded to your student information system? Or does Google Classroom not display your final mark? ossd-mark-calculator calculates your mark with speed and accuracy. It is built with C++, which is faster than other languages. The program avoids using decimals during its calculation, which produces 100% accurate results.  
 
@@ -49,16 +49,16 @@ Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calcul
 
 ## Usage
 Press enter after you finish typing
-1. Enter the number of items
+1. "Enter the number of items"
     - Type how many marks you want to enter
-3. "Enter the marks" (Limit: 4 decimal points)
+2. "Enter the marks" (Limit: 4 decimal points)
     - Type your marks excluding the denominator, separated by a space
     - For example: ```4 9.5 1000 99.332 20```
-4. "Enter the denominators" (Limit: 1 decimal point)
+3. "Enter the denominators" (Limit: 1 decimal point)
     - Type your denominators according to the order of the marks, separated by a space
-5. "Enter the weights" (Limit: 0 decimal points)
+4. "Enter the weights" (Limit: 0 decimal points)
     - Type your weights according to the order of the marks, separated by a space    
-6. Final mark
+5. Final mark
     - "Final Mark" displays your rounded off final mark
     - "Exact Mark" displays your exact mark, rounded off to 3 decimal points
 
