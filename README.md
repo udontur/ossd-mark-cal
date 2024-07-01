@@ -27,40 +27,40 @@ Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calcul
 
 ### Method 1: Executable file
 
-1. Navigate to the [executable file page](https://github.com/udontur/ossd-mark-calculator/blob/main/ossd-markcal.exe)
+1. Navigate to the [executable file page](https://github.com/udontur/ossd-mark-calculator/blob/main/ossd-markcal.exe).
 2. Click the download button located in the code bar. 
     - The code bar is located in the middle-top-left of the screen, under the history button. The download button is located next to the raw and copy button. 
 3. After the executable file is downloaded, a pop up should appear on the top left corner of the screen. 
-    - If there are no pop up, click download again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```
-4. Click the ```ossd-markcal.exe```
-5. Windows or MacOS will warn you about opening an executable file
+    - If there are no pop up, click download again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
+4. Click the ```ossd-markcal.exe```.
+5. Windows or MacOS will warn you about opening an executable file.
     - Windows: Click "More Info", then click "Run anyway".
     - MacOS: Click "Open".
 6. A terminal will pop up, ossd-mark-calculator is good to go!
 
 ### Method 2: Online compiler
-1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/)
-2. Click the language drop-down in the top left of the website
-3. Select ```C++20```
-4. Remove the code located in the large code area
-5. Paste [this code](https://github.com/udontur/ossd-mark-calculator/blob/main/src/main.cpp) in the empty large code area
-6. Press ```F9``` on your keyboard
+1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/).
+2. Click the language drop-down in the top left of the website.
+3. Select ```C++20```.
+4. Remove the code located in the large code area.
+5. Paste [this code](https://github.com/udontur/ossd-mark-calculator/blob/main/src/main.cpp) in the empty large code area.
+6. Press ```F9``` on your keyboard.
 7. Use the ossd-mark-calculator in the terminal at the website's bottom. ossd-mark-calculator is good to go!
 
 ## Usage
-Press enter after you finish typing
+Press enter after you finish typing.
 1. "Enter the number of items"
-    - Type how many marks you want to enter
+    - Type how many marks you want to enter.
 2. "Enter the marks" (Limit: 4 decimal points)
-    - Type your marks excluding the denominator, separated by a space
-    - For example: ```4 9.5 1000 99.332 20```
+    - Type your marks excluding the denominator, separated by a space.
+    - For example: ```4 9.5 1000 99.332 20```.
 3. "Enter the denominators" (Limit: 1 decimal point)
-    - Type your denominators according to the order of the marks, separated by a space
+    - Type your denominators according to the order of the marks, separated by a space.
 4. "Enter the weights" (Limit: 0 decimal points)
-    - Type your weights according to the order of the marks, separated by a space    
+    - Type your weights according to the order of the marks, separated by a space  .  
 5. Final marks
-    - "Final Mark" displays your rounded off final mark
-    - "Exact Mark" displays your exact mark, rounded off to 3 decimal points
+    - "Final Mark" displays your rounded off final mark.
+    - "Exact Mark" displays your exact mark, rounded off to 3 decimal points.
 
 ## License
 
