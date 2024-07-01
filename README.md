@@ -25,7 +25,7 @@ The [code](https://github.com/udontur/ossd-mark-calculator/blob/main/src/main.cp
 
 Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calculator/blob/main/src/main.cpp) using an [online compiler with an interactive console](https://www.onlinegdb.com/online_c_compiler), or compile it locally. (Local compiling will not be covered) 
 
-### Method 1: executable file
+### Method 1: Executable file
 
 1. Navigate to the [executable file page](https://github.com/udontur/ossd-mark-calculator/blob/main/ossd-markcal.exe)
 2. Click the download button located in the code bar. 
