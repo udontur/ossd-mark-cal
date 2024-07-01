@@ -29,12 +29,10 @@ Additionally, you can run the [code](https://github.com/udontur/ossd-mark-calcul
 
 ### Method 1: Executable file
 
-1. Navigate to the [executable file page](https://github.com/udontur/ossd-mark-calculator/blob/main/ossd-markcal.exe).
-2. Click the download button located in the code bar. 
-    - The code bar is located in the middle-top-left of the screen, under the history button. The download button is located next to the raw and copy button. 
-3. After the executable file is downloaded, a pop up should appear on the top left corner of the screen. 
-    - If there are no pop up, click download again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
-4. Click the ```ossd-markcal.exe```.
+1. Download the [ossd-markcal.exe executable file](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
+3. A pop up should appear on the top left corner of the screen. 
+    - If there are no pop ups, download it again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
+4. Click ```ossd-markcal.exe```.
 5. Windows or MacOS will warn you about opening an executable file.
     - Windows: Click "More Info", then click "Run anyway".
     - MacOS: Click "Open".
