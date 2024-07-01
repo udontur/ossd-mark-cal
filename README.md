@@ -17,7 +17,7 @@
 
 Have you ever received your score and wondered what the final mark is, but it is not uploaded to your student information system? Or does Google Classroom not display your final mark? ossd-mark-calculator calculates your mark with speed and accuracy. 
 
-It is built with C++, which is faster than other languages. The program avoids using decimals during its calculation, which produces 100% accurate results.  
+It is built with C++, which is faster than most languages. The program avoids using decimals during its calculation, which produces 100% accurate results.  
 
 If you find this helpful (thank you for using ossd-mark-calculator), [staring this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) would help the author a lot!
 
