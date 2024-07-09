@@ -30,6 +30,7 @@ If you find this helpful (thank you for using ossd-mark-calculator), [staring th
 
 ## Usage
 Press enter after you finish typing.
+### Input
 1. "Enter the number of items"
     - Type how many marks you want to enter.
 2. "Enter the marks" (Limit: 4 decimal points)
@@ -38,8 +39,9 @@ Press enter after you finish typing.
 3. "Enter the denominators" (Limit: 1 decimal point)
     - Type your denominators according to the order of the marks, separated by a space.
 4. "Enter the weights" (Limit: 0 decimal points)
-    - Type your weights according to the order of the marks, separated by a space  .  
-5. Final marks
+    - Type your weights according to the order of the marks, separated by a space.
+### Output
+1. Final marks
     - "Final Mark" displays your rounded off final mark.
     - "Exact Mark" displays your exact mark, rounded off to 3 decimal points.
 
