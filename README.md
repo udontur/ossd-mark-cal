@@ -27,7 +27,7 @@ If you find this helpful (thank you for using ossd-mark-calculator), [staring th
 1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe) the ossd-markcal.exe executable file
 2. Click ```ossd-markcal.exe``` on the download pop up (**top left corner**) 
 3. Click ```More Info```, then click ```Run anyway```.
-   - It will warn you about safety. This executable file is **completely safe**. You can check the code in the "src" folder. 
+   - It will warn you about safety. This executable file is **completely safe**. You can check the code in [the src folder](src). 
 4. A terminal will pop up, ossd-mark-calculator is good to go!
 
 ### Method 2: Online compiler
