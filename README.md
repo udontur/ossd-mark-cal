@@ -21,22 +21,12 @@ It is built with C++, which is faster than most languages. The program avoids us
 
 If you find this helpful (thank you for using ossd-mark-calculator), [staring this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) would help the author a lot!
 
-## Getting started
-### Method 1: Executable file (Recommended)
+## Running the calculator
 
-1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe) the ossd-markcal.exe executable file
+1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
 2. Click ```ossd-markcal.exe``` on the download pop up (**top left corner**) 
 3. Click ```More Info```, then click ```Run anyway```. (This program is **safe**. You can check the code in [the src folder](src))
 4. A terminal will pop up, ossd-mark-calculator is good to go!
-
-### Method 2: Online compiler
-1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/).
-2. Click the language drop-down in the top left of the website.
-3. Select ```C++20```.
-4. Remove the code located in the large code area.
-5. Paste [this code](https://github.com/udontur/ossd-mark-calculator/blob/main/src/main.cpp) in the empty large code area.
-6. Press ```F9``` on your keyboard.
-7. Use the ossd-mark-calculator in the terminal at the website's bottom. ossd-mark-calculator is good to go!
 
 ## Usage
 Press enter after you finish typing.
