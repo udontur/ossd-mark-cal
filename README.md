@@ -22,14 +22,13 @@ It is built with C++, which is faster than most languages. The program avoids us
 If you find this helpful (thank you for using ossd-mark-calculator), [staring this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) would help the author a lot!
 
 ## Getting started
-### Method 1: Executable file (easier)
+### Method 1: Executable file (Recommended)
 
-1. [Click here to download](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe) the ossd-markcal.exe executable file
-2. Click ```ossd-markcal.exe``` on the pop up on the top left corner of the screen. 
-    - If there are no pop ups, download it again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
-3. It will warn you about opening an executable file. This executable file is completely safe. You can check the code in the "src" folder. 
-4. Click "More Info", then click "Run anyway".
-5. A terminal will pop up, ossd-mark-calculator is good to go!
+1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe) the ossd-markcal.exe executable file
+2. Click ```ossd-markcal.exe``` on the pop up, located on the **top left corner** of the screen. 
+3. Click ```More Info```, then click ```Run anyway```.
+   - It will warn you about opening an executable file. This executable file is **completely safe**. You can check the code in the "src" folder. 
+4. A terminal will pop up, ossd-mark-calculator is good to go!
 
 ### Method 2: Online compiler
 1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/).
