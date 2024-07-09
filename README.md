@@ -24,7 +24,7 @@ If you find this helpful (thank you for using ossd-mark-calculator), [staring th
 ## Getting started
 ### Method 1: Executable file (easier)
 
-1. [Click here to download the ossd-markcal.exe executable file](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
+1. [Click here to download](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe) the ossd-markcal.exe executable file
 2. Click ```ossd-markcal.exe``` on the pop up on the top left corner of the screen. 
     - If there are no pop ups, download it again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
 3. It will warn you about opening an executable file. This executable file is completely safe. You can check the code in the "src" folder. 
