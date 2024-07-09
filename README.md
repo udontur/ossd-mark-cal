@@ -24,13 +24,12 @@ If you find this helpful (thank you for using ossd-mark-calculator), [staring th
 ## Getting started
 ### Method 1: Executable file (easier)
 
-1. Download the [ossd-markcal.exe executable file](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
+1. [Click here to download the ossd-markcal.exe executable file](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
 2. Click ```ossd-markcal.exe``` on the pop up on the top left corner of the screen. 
     - If there are no pop ups, download it again, or check  ```C:\Users\<YOURUSERNAME>\Downloads```.
-3. Windows or MacOS will warn you about opening an executable file.
-    - Windows: Click "More Info", then click "Run anyway".
-    - MacOS: Click "Open".
-4. A terminal will pop up, ossd-mark-calculator is good to go!
+3. It will warn you about opening an executable file. This executable file is completely safe. You can check the code in the "src" folder. 
+4. Click "More Info", then click "Run anyway".
+5. A terminal will pop up, ossd-mark-calculator is good to go!
 
 ### Method 2: Online compiler
 1. Navigate to the [GDB Online Compiler](https://www.onlinegdb.com/).
