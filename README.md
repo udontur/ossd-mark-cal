@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h1 align="center">ossd-mark-calculator (Curretly broken 2024 July)</h3>
+  <h1 align="center">ossd-mark-calculator</h3>
 
   <p align="center">
     Mark calculator for the Ontario Secondary School Diploma
