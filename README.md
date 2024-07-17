@@ -3,7 +3,7 @@
   <h1 align="center">ossd-mark-calculator</h3>
 
   <p align="center">
-    Mark calculator for the Ontario Secondary School Diploma
+    🧮 Ontario Secondary School Diploma (OSSD) final mark calculator
     <br />
     <br />
     <a href="https://github.com/udontur/ossd-mark-calculator/issues/new">Report Bug</a>
