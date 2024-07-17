@@ -23,7 +23,7 @@ If you find this helpful (thank you for using ossd-mark-calculator), [staring th
 
 ## Running the calculator
 
-1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/ossd-markcal.exe)
+1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/app/ossd-markcal.exe)
 2. Click ```ossd-markcal.exe``` on the download pop up (**top left corner**) 
 3. Click ```More Info```, then click ```Run anyway```. (This program is **safe**. You can check the code in [the src folder](src))
 4. A terminal will pop up, ossd-mark-calculator is good to go!
