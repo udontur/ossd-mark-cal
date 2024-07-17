@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h1 align="center">ossd-mark-calculator</h3>
+  <h1 align="center">OSSD Mark Calculator</h3>
 
   <p align="center">
     🧮 Ontario Secondary School Diploma (OSSD) final mark calculator
