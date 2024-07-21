@@ -1,6 +1,6 @@
 /*
 Program name: ossd-mark-calculator
-Program: ossd-markcal.exe
+Program: ossd-mark-cal.exe
 GitHub link: github.com/udontur/ossd-mark-calculator
 Date: July 2024
 Author: github.com/udontur
@@ -85,5 +85,7 @@ int main() {
     cout << "Exact Mark: " << exactMark << "\n";
 
     cout << "\n[END] OSSD Mark Calculator\n";
+
+     system("pause");
 
 }
