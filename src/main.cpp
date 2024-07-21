@@ -86,6 +86,6 @@ int main() {
 
     cout << "\n[END] OSSD Mark Calculator\n";
 
-     system("pause");
+    system("pause");
 
 }
