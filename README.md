@@ -44,7 +44,3 @@ Press enter after you finish typing.
 1. Final marks
     - "Final Mark" displays your rounded off final mark.
     - "Exact Mark" displays your exact mark, rounded off to 3 decimal points.
-
-## License
-
-Distributed under the [MIT License](https://github.com/udontur/ossd-mark-calculator/blob/main/LICENSE). See [LICENSE](https://github.com/udontur/ossd-mark-calculator/blob/main/LICENSE) for more information.
