@@ -19,7 +19,7 @@ Have you ever received your score and wondered what the final mark is, but it is
 
 🎯 It is built with C++. The program avoids using decimals during its calculation, which produces 100% accurate results. 
 
-## Running the calculator
+## Running the calculator (Windows, Linux will be availbable later)
 
 1. [**Click here to download**](https://raw.githubusercontent.com/udontur/ossd-mark-calculator/main/app/ossd-mark-cal.exe)
 2. Click ```ossd-markcal.exe``` on the download pop up (**top left corner**) 
