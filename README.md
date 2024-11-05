@@ -3,12 +3,12 @@
   <h1 align="center">OSSD Mark Calculator</h3>
 
   <p align="center">
-    🧮 Ontario Secondary School Diploma (OSSD) final mark calculator
+    🧮 Ontario Secondary School Diploma (OSSD) mark calculator
     <br />
     <br />
     <a href="https://github.com/udontur/ossd-mark-calculator/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/udontur">Author</a>
+    <a href="https://github.com/udontur">udontur</a>
   </p>
 </div>
 
@@ -17,9 +17,7 @@
 
 Have you ever received your score and wondered what the final mark is, but it is not uploaded to your student information system? Or does Google Classroom not display your final mark? ossd-mark-calculator calculates your mark with speed and accuracy. 
 
-🎯 It is built with C++, which is faster than most languages. The program avoids using decimals during its calculation, which produces 100% accurate results.  
-
-⭐ If you find this helpful (thank you for using ossd-mark-calculator), [staring this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) would help the author a lot!
+🎯 It is built with C++. The program avoids using decimals during its calculation, which produces 100% accurate results. 
 
 ## Running the calculator
 
@@ -44,3 +42,5 @@ Press enter after you finish typing.
 1. Final marks
     - "Final Mark" displays your rounded off final mark.
     - "Exact Mark" displays your exact mark, rounded off to 3 decimal points.
+
+⭐ Star the Repo please 🙏
