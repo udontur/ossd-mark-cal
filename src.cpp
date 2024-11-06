@@ -1,10 +1,10 @@
-/*
-Program name: ossd-mark-calculator
-Program: ossd-mark-cal.out
-GitHub link: github.com/udontur/ossd-mark-calculator
-Date: July 2024
-Author: github.com/udontur
-*/
+/*******************************************************
+* Location: /usr/bin/ossd-mark-cal.out                 *
+* GitHub link: github.com/udontur/ossd-mark-calculator *
+* Date: July 2024                                      *
+* Author: github.com/udontur                           *
+* OS: Linux only                                       *
+*******************************************************/
 
 #include <iomanip>
 #include <iostream>
@@ -12,14 +12,13 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
     
-    if(argc==1){
-        cout<<"Please enter the number of items\n";
-        return 1;
-    }
-    int numberOfItems=stoi(argv[1]);
+    int numberOfItems;
+    cout << "Number of items? ";
+    cin >> numberOfItems;
+    
     long long mark[numberOfItems];
-    cout << "Enter the marks\n";
-    cout << ">>> ";
+    cout << "Enter the marks: \n";
+    cout << "\033[90m==> \033[39m";
     for (int i = 0; i < numberOfItems; i++) {
         double markInput;
         cin >> markInput;
@@ -27,8 +26,8 @@ int main(int argc, char* argv[]) {
         mark[i] = static_cast<long long>(markInput * 1000000);
     }
 
-    cout << "Enter the denominators\n";
-    cout << ">>> ";
+    cout << "Enter the denominators: \n";
+    cout << "\033[90m==> \033[39m";
     for (int i = 0; i < numberOfItems; i++) {
         long long denominatorInput;
         cin >> denominatorInput;
@@ -37,8 +36,8 @@ int main(int argc, char* argv[]) {
     }
 
     long long weight[numberOfItems], totalWeight = 0;
-    cout << "Enter the weights\n";
-    cout << ">>> ";
+    cout << "Enter the weights: \n";
+    cout << "\033[90m==> \033[39m";
     for (int i = 0; i < numberOfItems; i++) {
         double weightInput;
         cin >> weightInput;
@@ -76,7 +75,7 @@ int main(int argc, char* argv[]) {
     double exactMark = static_cast<double>(exactMarkProcess);
     exactMark /= 1000.0;
 
-    cout << "Final Mark: " << finalMark << "\n";
+    cout << "\033[92mFinal Mark: " << finalMark << "\033[39m\n";
     cout << fixed << setprecision(3);
-    cout << "Exact Mark: " << exactMark << "\n";
+    cout << "\033[37mExact Mark: " << exactMark << "\033[39m\n";
 }
