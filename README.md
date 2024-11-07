@@ -12,11 +12,11 @@
   </p>
 </div>
 
-## Installation
-Paste the following command in a new terminal.
+## Installation (Linux)
+Paste in a new terminal: 
 ```sh
 git clone https://github.com/udontur/ossd-mark-cal.git && cd ~/ossd-mark-cal && . ./install.sh
 ```
 
 ## Usage
-Type ```ossdmk``` in the terminal.
+Enter ```ossdmk``` in the terminal.
