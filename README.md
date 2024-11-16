@@ -13,9 +13,9 @@
 </div>
 
 ## Installation (Linux)
-Paste in a new terminal: 
+Paste the following command in a terminal: 
 ```sh
-git clone https://github.com/udontur/ossd-mark-cal.git && cd ~/ossd-mark-cal && . ./install.sh
+cd ~ && git clone https://github.com/udontur/ossd-mark-cal.git && cd ~/ossd-mark-cal && . ./install.sh
 ```
 
 ## Usage
