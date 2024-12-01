@@ -13,9 +13,17 @@
 </div>
 
 ## Installation (Linux)
-Paste the following command in a terminal: 
+1. Clone the repository
 ```sh
-cd ~ && git clone https://github.com/udontur/ossd-mark-cal.git && cd ~/ossd-mark-cal && . ./install.sh
+git clone https://github.com/udontur/ossdmk.git
+```
+2. Navigate to the directory
+```sh
+cd ossdmk
+```
+3. Install the CLI tool
+```sh
+make install
 ```
 
 ## Usage

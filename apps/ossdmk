@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/ossd-mark-cal.out
+/usr/bin/ossdmk.out
