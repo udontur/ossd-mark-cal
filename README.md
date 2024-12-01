@@ -29,4 +29,4 @@ make install
 ## Usage
 Enter ```ossdmk``` in the terminal.
 > [!NOTE]
-> ```ossdmk``` can handle up to three decimal places.
+> ```ossdmk``` can handle up to 3 decimal places.
