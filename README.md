@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/udontur/ossd-mark-calculator/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/udontur">Made with Passion by Hadrian</a>
+    <a href="https://github.com/udontur">Made with passion by Hadrian</a>
   </p>
 </div>
 
