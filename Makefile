@@ -6,5 +6,5 @@ install:
 	@cp -p apps/ossdmk /usr/local/bin/ossdmk
 
 uninstall:
-	@rm /usr/bin/ossd-mark-cal.out
-	@rm /usr/local/bin/ossdmk
+	@rm -f /usr/bin/ossd-mark-cal.out
+	@rm -f /usr/local/bin/ossdmk
