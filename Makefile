@@ -7,4 +7,4 @@ install:
 
 uninstall:
 	@rm -f /usr/bin/ossd-mark-cal.out
-	@rm -f /usr/local/bin/ossdmk
+	@sudo rm -f /usr/local/bin/ossdmk
